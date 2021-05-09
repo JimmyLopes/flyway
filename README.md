@@ -20,10 +20,10 @@ https://flywaydb.org/documentation/usage/api/
 
 [sucess_log]
 
-[sucess_log]: https://github.com/JimmyLopes/Flyway/src/main/resources/static/sucess_log.png "Sucess log"
+[sucess_log]: https://github.com/JimmyLopes/flyway/blob/master/src/main/resources/static/sucess_log.png "Sucess log"
 
 4. created tables:
 
 [tables]
 
-[tables]: https://github.com/JimmyLopes/Flyway/src/main/resources/static/tables.png "Sucess log"
+[tables]: https://github.com/JimmyLopes/flyway/blob/master/src/main/resources/static/tables.png "Sucess log"
