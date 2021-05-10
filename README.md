@@ -18,12 +18,9 @@ https://flywaydb.org/documentation/usage/api/
 2. mvn package exec:java -Dexec.mainClass=com.example.flyway.FlywayPocApplication
 3. Sucess log:
 
-[sucess_log]
 
-[sucess_log]: https://github.com/JimmyLopes/flyway/blob/master/src/main/resources/static/sucess_log.png "Sucess log"
+<code><img width="75%" src="https://github.com/JimmyLopes/flyway/blob/master/src/main/resources/static/sucess_log.png"></code>
 
 4. created tables:
 
-[tables]
-
-[tables]: https://github.com/JimmyLopes/flyway/blob/master/src/main/resources/static/tables.png "Sucess log"
+<code><img width="75%" src="https://github.com/JimmyLopes/flyway/blob/master/src/main/resources/static/tables.png"></code>
