@@ -19,7 +19,7 @@ https://flywaydb.org/documentation/usage/api/
 3. Sucess log:
 
 
-<code><img width="75%" src="https://github.com/JimmyLopes/flyway/blob/master/src/main/resources/static/sucess_log.png"></code>
+<code><img src="https://github.com/JimmyLopes/flyway/blob/master/src/main/resources/static/sucess_log.png"></code>
 
 4. created tables:
 
