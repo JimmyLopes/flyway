@@ -23,4 +23,4 @@ https://flywaydb.org/documentation/usage/api/
 
 4. created tables:
 
-<code><img width="75%" src="https://github.com/JimmyLopes/flyway/blob/master/src/main/resources/static/tables.png"></code>
+<code><img src="https://github.com/JimmyLopes/flyway/blob/master/src/main/resources/static/tables.png"></code>
